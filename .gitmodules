@@ -1,0 +1,9 @@
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "components/lib/analogWrite"]
+	path = components/lib/analogWrite
+	url = https://github.com/ERROPiX/ESP32_AnalogWrite.git

@@ -1,5 +1,9 @@
-# Hello World Example
+# Hello World Teplate project with esp-idf and arduino
 
-Starts a FreeRTOS task to print "Hello World"
+Using:
+- Version 1.0.2 of the [arduino component](https://github.com/espressif/arduino-esp32) 
+- Version release/3.2 of the [esp-idf](https://github.com/espressif/esp-idf)
 
-See the README.md file in the upper level 'examples' directory for more information about examples.
+Make sure when moving to this directory to source the .bashrc file
+
+have fun using it!

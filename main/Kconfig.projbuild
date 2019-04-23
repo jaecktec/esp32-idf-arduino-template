@@ -1,0 +1,4 @@
+menu "Example Configuration"
+
+config BLINK_EXAMPLE
+endmenu

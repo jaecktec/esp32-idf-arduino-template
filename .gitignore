@@ -1,1 +1,5 @@
 build
+.vscode
+.python-version
+.idea
+cmake-build-debug
