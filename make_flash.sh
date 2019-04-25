@@ -1,1 +1,1 @@
-make app && python -m esptool --chip esp32 --port /dev/tty.SLAB_USBtoUART --baud 115200 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 40m --flash_size detect 0x10000 /Users/constantin/Documents/workspace/esp32_ws2812b_strip_controller/build/.bin
+make app && python -m esptool --chip esp32 --port /dev/tty.SLAB_USBtoUART --baud 115200 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 40m --flash_size detect 0x10000 ./build/.bin
