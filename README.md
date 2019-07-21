@@ -4,6 +4,9 @@ Using:
 - Version 1.0.2 of the [arduino component](https://github.com/espressif/arduino-esp32) 
 - Version release/3.2 of the [esp-idf](https://github.com/espressif/esp-idf)
 
+You need to have the [https://docs.espressif.com/projects/esp-idf/en/stable/get-started/](Toolchain) installed. 
+More specific, you need to have the compiler in your path. 
+
 Make sure when moving to this directory to source the .bashrc file
 
 have fun using it!
